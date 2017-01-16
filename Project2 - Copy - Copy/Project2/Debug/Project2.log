@@ -1,0 +1,25 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+cl : Command line warning D9035: option 'V' has been deprecated and will be removed in a future release
+  Source.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\benth\desktop\openglstuff\headers\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+c:\users\benth\desktop\project2\project2\teapot.h(2996): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\benth\desktop\project2\project2\teapot.h(2996): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\benth\desktop\project2\project2\teapot.h(5975): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\benth\desktop\project2\project2\teapot.h(5975): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\benth\desktop\project2\project2\teapot.h(8954): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\benth\desktop\project2\project2\teapot.h(8954): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\benth\desktop\project2\project2\source.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(619): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(803): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(804): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(808): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(809): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(811): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(812): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\benth\desktop\project2\project2\source.cpp(819): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  LoadShaders.cpp
+  Project2.vcxproj -> C:\Users\BenTh\Desktop\Project2\Debug\Assignment1.exe
+  Project2.vcxproj -> C:\Users\BenTh\Desktop\Project2\Debug\Assignment1.pdb (Full PDB)
